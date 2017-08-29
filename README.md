@@ -13,12 +13,12 @@ Please create the following files:
 Create a link tag for your CSS stylesheet in your html document. Conduct a Sanity Check for your CSS and have it approved by an instructor.
 
 ## HTML
-1. Create a header containing the name of your vided streamer using a **header** tag.
+1. Cr header containing the name of your vided streamer using a **header** tag.
 
 2. Create a container for all of your videos using a **div** tag and set the value of the id attribute to `container`
 
 3. Create at least 6 individual videos using a **div** tag and set the value of the class attribute to `video` for each profile.
-
+eate a
 4. For each video:
   - Create a header containing your video's name using a **header** tag bigger than **h3**
   - Create a thumbnail for each video using an **image** tag and set the value of the class attribute to `thumbnail`.
