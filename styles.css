@@ -1,4 +1,8 @@
+body {
+	background-image: url("https://pbs.twimg.com/media/B0GY2dWIcAADmgZ.jpg");
+}
+
 .thumbnail {
 	height: 300px;
-	width: 300px;
+	width:  300px;
 }
